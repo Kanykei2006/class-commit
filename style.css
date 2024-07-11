@@ -1,0 +1,106 @@
+
+.section {
+max-width: 500px;
+}
+.btnOne {
+    margin: 20px;
+    background: none;
+    padding: 10px 20px;
+    color: blue;
+    border-radius: 40px;
+    border: 2px solid blue;
+}
+.btnTwo {
+    margin:20px;
+    background: none;
+    padding: 10px 20px;
+    color:blue;
+    border-radius: 40px;
+    border: 2px solid blue;
+}
+.btnThree {
+    margin: 20px ;
+    background: blue;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 40px;
+    border: 2px solid blue;
+}
+.btnFour {
+    margin: 20px;
+    background: grey;
+    padding: 10px 20px;
+    color:black;
+    border-radius: 40px;
+    border: 2px solid grey;
+}
+.btnFive {
+    margin: 20px;
+    background: grey;
+    padding: 10px 20px;
+    color: black;
+    border-radius: 40px;
+    border: 2px solid grey;
+}
+.btnSix {
+    margin: 20px;
+    background: black;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 40px;
+    border: 2px solid none;
+}
+.btnSeven {
+    margin: 20px;
+    background: none;
+    padding: 10px 20px;
+    color: red;
+    border-radius: 40px;
+    border: 2px solid red;
+}
+
+.btnEight {
+    margin: 20px;
+    background: none;
+    padding: 10px 20px;
+    color: black;
+    border-radius: 40px;
+    border: 2px solid #000;
+}
+
+.btnNine {
+    margin: 20px;
+    background: black;
+    padding: 10px 20px;
+    color:white;
+    border-radius: 40px;
+    border: 2px solid black;
+}
+
+.btnTen {
+    margin: 20px;
+    background: white;
+    padding: 10px 20px;
+    color: black;
+    border-radius: 40px;
+    border: 2px solid  #000;
+}
+
+.btnEleven {
+    margin: 20px;
+    background: white;
+    padding: 10px 20px;
+    color: black;
+    border-radius: 40px;
+    border: 2px solid #000;
+
+}
+
+.btnTwelve {
+    margin: 20px;
+    background: grey;
+    padding: 10px 20px;
+    color: black;
+    border-radius: 40px;
+    border: 2px solid grey;
+}
